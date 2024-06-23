@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-application-form/static/css/main.f7882352.css",
+    "main.js": "/job-application-form/static/js/main.594ccdf4.js",
+    "index.html": "/job-application-form/index.html",
+    "main.f7882352.css.map": "/job-application-form/static/css/main.f7882352.css.map",
+    "main.594ccdf4.js.map": "/job-application-form/static/js/main.594ccdf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7882352.css",
+    "static/js/main.594ccdf4.js"
+  ]
+}
